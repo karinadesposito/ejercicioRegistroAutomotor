@@ -1,0 +1,31 @@
+ [
+    {
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "motor":2000,
+   "origen":"Nacional",
+   "año":2019
+},
+{
+    "marca": "Toyota",
+    "modelo": "Yariz",
+    "motor":2000,
+    "origen":"Nacional",
+    "año":2017
+ },
+ {
+    "marca": "Suzuky",
+    "modelo": "Vitara",
+    "motor":2500,
+    "origen":"Importado",
+    "año":2019
+ },
+ {
+    "marca": "Honda",
+    "modelo": "HRV",
+    "motor":2500,
+    "origen":"Nacional",
+    "año":2022
+ }
+]
+
