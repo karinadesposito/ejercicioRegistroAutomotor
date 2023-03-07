@@ -1,0 +1,12 @@
+"use strict";
+exports.__esModule = true;
+var auto_1 = require("./auto");
+var registro_1 = require("./registro");
+var Auto1 = new auto_1["default"]("Ford", "Fiesta", 1600, "Nacional", 1996);
+var Auto2 = new auto_1["default"]("Honda", "Fit", 1500, "Importado", 2013);
+var Auto3 = new auto_1["default"]("Mercedes Benz", "C200", 2000, "Importado", 2022);
+var registro = [Auto1, Auto2];
+var _a = [auto_1["default"]];
+var Gestor = new registro_1["default"]();
+Gestor.nuevoIngreso();
+console.log(registro);
